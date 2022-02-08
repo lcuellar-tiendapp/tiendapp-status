@@ -15,7 +15,7 @@ status-website:
   #baseUrl: /tiendapp-status
   logoUrl: https://www.tiendapp.net/images/logo-tiendapp.png
   name: Uptime TiendAPP
-  introTitle: "**TiendAPP** Una tienda a otro nivel"
+  introTitle: "**TiendAPP** una tienda a otro nivel"
   introMessage: Monitore de los sitios web de TiendAPP.
   navbar:
     - title: Status
