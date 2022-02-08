@@ -11,12 +11,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.tiendapp.net
-  baseUrl: /tiendapp-status
+  cname: status.tiendapp.net
+  # baseUrl: /tiendapp-status
   logoUrl: https://www.tiendapp.net/images/logo-tiendapp.png
   name: Uptime TiendAPP
   introTitle: "**TiendAPP** una tienda a otro nivel"
-  introMessage: Monitore de los sitios web de TiendAPP.
+  introMessage: Uptime sitios web TiendAPP.
   navbar:
     - title: Status
       href: /
