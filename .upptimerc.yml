@@ -8,7 +8,7 @@ sites:
   - name: Admin
     url: https://administrador.tiendapp.net
   - name: NoConexion
-    url: $SECRET_SITE_COUHCDB
+    url: $COUCHDB
 
 status-website:
   favicon: https://administrador.tiendapp.net/favicon.ico
