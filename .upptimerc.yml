@@ -3,17 +3,17 @@ owner: lcuellar-tiendapp # Your GitHub organization or username, where this repo
 repo: tiendapp-status # The name of this repository
 
 sites:
-  - name: WWW
+  - name: Página web
     url: https://www.tiendapp.net
-  - name: Admin
+  - name: Portal administrador
     url: https://administrador.tiendapp.net
-  - name: NoConexion
+  - name: No conexión
     url: $COUCHDB
 
 status-website:
   favicon: https://administrador.tiendapp.net/favicon.ico
   #themes: ocean, light, dark, night
-  theme: dark
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tiendapp.net
