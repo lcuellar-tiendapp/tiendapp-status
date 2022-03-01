@@ -8,7 +8,7 @@ sites:
   - name: Portal administrador
     url: https://administrador.tiendapp.net
   - name: API Servicios APP
-    url: API_APP
+    url: $API_APP
   - name: API Conexión ERP
     url: $API_ERP
     method: POST
