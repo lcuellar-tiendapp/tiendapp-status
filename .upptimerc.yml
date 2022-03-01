@@ -7,6 +7,11 @@ sites:
     url: https://www.tiendapp.net
   - name: Portal administrador
     url: https://administrador.tiendapp.net
+  - name: API Servicios APP
+    url: API_APP
+  - name: API Conexión ERP
+    url: $API_ERP
+    method: POST
   - name: No conexión
     url: $COUCHDB
 
