@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 407,
-    "timeWeek": 463,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "time": 512,
+    "timeDay": 497,
+    "timeWeek": 478,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   },
   {
@@ -28,12 +28,52 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 548,
-    "timeWeek": 577,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "time": 576,
+    "timeDay": 625,
+    "timeWeek": 593,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "API Servicios APP",
+    "url": "API_APP",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "api-servicios-app",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
+  },
+  {
+    "name": "API Conexión ERP",
+    "url": "$API_ERP",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "api-conexion-erp",
+    "status": "down",
+    "uptime": "39.37%",
+    "uptimeDay": "39.37%",
+    "uptimeWeek": "39.37%",
+    "uptimeMonth": "39.37%",
+    "uptimeYear": "39.37%",
+    "time": 327,
+    "timeDay": 327,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "No conexión",
@@ -46,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 266,
-    "timeWeek": 235,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 230,
+    "timeDay": 274,
+    "timeWeek": 241,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
