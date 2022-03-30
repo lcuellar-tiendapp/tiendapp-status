@@ -76,19 +76,19 @@
     "url": "$COUCHDB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "no-conexion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 11786,
-    "timeWeek": 3122,
-    "timeMonth": 904,
-    "timeYear": 635,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 629,
+    "timeDay": 7937,
+    "timeWeek": 2802,
+    "timeMonth": 886,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2022-03-30": 0
+      "2022-03-30": 15
     }
   }
 ]
