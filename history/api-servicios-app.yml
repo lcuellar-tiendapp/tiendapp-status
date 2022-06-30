@@ -1,7 +1,7 @@
 url: $API_APP
-status: up
-code: 400
-responseTime: 183
-lastUpdated: 2022-06-29T23:22:45.903Z
+status: down
+code: 403
+responseTime: 71
+lastUpdated: 2022-06-30T06:45:05.479Z
 startTime: Tue Mar 01 2022 20:53:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
