@@ -1,7 +1,7 @@
 url: $COUCHDB
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2022-11-21T23:25:11.239Z
+status: down
+code: 502
+responseTime: 4828
+lastUpdated: 2022-11-22T15:24:41.649Z
 startTime: Tue Feb 08 2022 04:31:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
